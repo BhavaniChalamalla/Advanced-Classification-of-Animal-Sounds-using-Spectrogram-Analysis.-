@@ -34,7 +34,9 @@ Test Accuracy: 87.5%
 
 ## Future Work
 Implement more sophisticated data augmentation and regularization techniques to further reduce overfitting.
+
 Experiment with different machine learning and deep learning models.
+
 Expand the dataset to include more diverse and challenging animal sounds.
 
 
