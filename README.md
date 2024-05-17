@@ -29,7 +29,9 @@ The Convolutional Neural Network (CNN) used in this project includes:
 
 ## Results
 Training Accuracy: 98.94%
+
 Test Accuracy: 87.5%
+
 **Confusion Matrix Analysis:** The model performed well in classifying 'Big Cats' and 'Wild Dogs', while there was room for improvement in distinguishing 'Cats' and 'Sheep'.
 
 ## Future Work
