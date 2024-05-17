@@ -33,10 +33,8 @@ Test Accuracy: 87.5%
 **Confusion Matrix Analysis:** The model performed well in classifying 'Big Cats' and 'Wild Dogs', while there was room for improvement in distinguishing 'Cats' and 'Sheep'.
 
 ## Future Work
-Implement more sophisticated data augmentation and regularization techniques to further reduce overfitting.
-
-Experiment with different machine learning and deep learning models.
-
-Expand the dataset to include more diverse and challenging animal sounds.
+- Implement more sophisticated data augmentation and regularization techniques to further reduce overfitting.
+- Experiment with different machine learning and deep learning models.
+- Expand the dataset to include more diverse and challenging animal sounds.
 
 
