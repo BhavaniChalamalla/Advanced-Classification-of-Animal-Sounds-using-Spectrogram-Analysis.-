@@ -14,9 +14,13 @@ Each audio file is processed to extract Mel Spectrograms and Mel Frequency Cepst
 
 ## Technologies Used
 Python: Programming language
+
 TensorFlow & Keras: Machine learning framework for building and training the CNN model
+
 Librosa: Library for audio and music analysis
+
 Matplotlib & Seaborn: Libraries for data visualization
+
 Scikit-learn: Library for model evaluation and utilities
 
 ## Model Architecture
