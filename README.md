@@ -28,7 +28,7 @@ The Convolutional Neural Network (CNN) used in this project includes:
 - Softmax output layer for classification
 
 ## Results
-Training Accuracy: 98.94%
+Training Accuracy: 91.94%
 
 Test Accuracy: 87.5%
 
