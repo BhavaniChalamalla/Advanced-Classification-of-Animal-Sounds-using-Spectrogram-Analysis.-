@@ -13,14 +13,11 @@ The dataset comprises over 150 audio recordings of animal sounds, sourced from p
 Each audio file is processed to extract Mel Spectrograms and Mel Frequency Cepstral Coefficients (MFCCs), which serve as the input features for the machine learning model.
 
 ## Technologies Used
-Python: Programming language
-TensorFlow & Keras: Machine learning framework for building and training the CNN model
-
-Librosa: Library for audio and music analysis
-
-Matplotlib & Seaborn: Libraries for data visualization
-
-Scikit-learn: Library for model evaluation and utilities
+- Python: Programming language
+- TensorFlow & Keras: Machine learning framework for building and training the CNN model
+- Librosa: Library for audio and music analysis
+- Matplotlib & Seaborn: Libraries for data visualization
+- Scikit-learn: Library for model evaluation and utilities
 
 ## Model Architecture
 The Convolutional Neural Network (CNN) used in this project includes:
